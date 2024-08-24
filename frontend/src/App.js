@@ -7,7 +7,7 @@ import Room from "./components/Room";
 import Sidebar from "./components/Sidebar";
 import "./style.css";
 
-const server = "http://localhost:5000/";
+const server = "https://insync-harmony2.onrender.com/";
 const connectionOptions = {
   "force new connection": true,
   reconnectionAttempts: "Infinity",
